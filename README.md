@@ -4,7 +4,7 @@
 
 An analysis of 1,000 bike purchase records in Excel. Build pivot tables to surface trends by income, commute distance, education, and region—and tie it together with an interactive dashboard preview.
 
-![Dashboard Preview](Bike Purchases Dashboard.png)
+![Dashboard Preview](Bike-Purchases-Dashboard.png)
 
 
 ## Data Description
